@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"brown-christmas",
+			"Dueto",
+			[
+				255,
+				100,
+				0
+			]
+		],
+		[
+			"poopstorm",
+			"Hankey-Wizard",
+			[
+				11,
+				163,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekCharacters": [
+		"mrHankey",
+		"bf",
+		"gf"
+	],
+	"storyName": "suck my little balls",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

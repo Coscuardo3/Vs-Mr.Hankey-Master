@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shit.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="caca0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0002" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0003" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0004" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0005" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0006" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0007" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0008" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0009" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0010" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0011" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="caca0012" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="caca0013" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="caca0014" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="caca0015" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="caca0016" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="caca0017" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="caca0018" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="caca0019" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="stop0000" x="-2000" y="-2000" width="4280" height="4720" frameX="4440" frameY="4440" frameWidth="1281" frameHeight="720"/>
+</TextureAtlas>

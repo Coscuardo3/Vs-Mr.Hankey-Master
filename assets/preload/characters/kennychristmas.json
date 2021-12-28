@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				66,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kn idle"
+		},
+		{
+			"offsets": [
+				69,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kn right"
+		},
+		{
+			"offsets": [
+				12,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kn down"
+		},
+		{
+			"offsets": [
+				75,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kn up"
+		},
+		{
+			"offsets": [
+				37,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kn left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kennychristmas",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Dueto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		40
+	],
+	"camera_position": [
+		0,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kennychristmas.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kn down0000" x="0" y="0" width="340" height="413" frameX="-3" frameY="-4" frameWidth="344" frameHeight="417"/>
+	<SubTexture name="kn down0001" x="340" y="0" width="340" height="411" frameX="-4" frameY="-6" frameWidth="344" frameHeight="417"/>
+	<SubTexture name="kn down0002" x="680" y="0" width="340" height="416" frameX="-1" frameY="-1" frameWidth="344" frameHeight="417"/>
+	<SubTexture name="kn down0003" x="1020" y="0" width="340" height="417" frameX="0" frameY="0" frameWidth="344" frameHeight="417"/>
+	<SubTexture name="kn down0004" x="1020" y="0" width="340" height="417" frameX="0" frameY="0" frameWidth="344" frameHeight="417"/>
+	<SubTexture name="kn idle0000" x="1360" y="0" width="340" height="413" frameX="-25" frameY="-16" frameWidth="365" frameHeight="429"/>
+	<SubTexture name="kn idle0001" x="1360" y="0" width="340" height="413" frameX="-25" frameY="-16" frameWidth="365" frameHeight="429"/>
+	<SubTexture name="kn idle0002" x="1700" y="0" width="340" height="416" frameX="-14" frameY="-13" frameWidth="365" frameHeight="429"/>
+	<SubTexture name="kn idle0003" x="1700" y="0" width="340" height="416" frameX="-14" frameY="-13" frameWidth="365" frameHeight="429"/>
+	<SubTexture name="kn idle0004" x="0" y="417" width="339" height="426" frameX="-5" frameY="-3" frameWidth="365" frameHeight="429"/>
+	<SubTexture name="kn idle0005" x="339" y="417" width="339" height="429" frameX="0" frameY="0" frameWidth="365" frameHeight="429"/>
+	<SubTexture name="kn idle0006" x="339" y="417" width="339" height="429" frameX="0" frameY="0" frameWidth="365" frameHeight="429"/>
+	<SubTexture name="kn idle0007" x="339" y="417" width="339" height="429" frameX="0" frameY="0" frameWidth="365" frameHeight="429"/>
+	<SubTexture name="kn left0000" x="678" y="417" width="340" height="432" frameX="-1" frameY="0" frameWidth="341" frameHeight="432"/>
+	<SubTexture name="kn left0001" x="678" y="417" width="340" height="432" frameX="-1" frameY="0" frameWidth="341" frameHeight="432"/>
+	<SubTexture name="kn left0002" x="1018" y="417" width="339" height="430" frameX="0" frameY="-2" frameWidth="341" frameHeight="432"/>
+	<SubTexture name="kn left0003" x="1018" y="417" width="339" height="430" frameX="0" frameY="-2" frameWidth="341" frameHeight="432"/>
+	<SubTexture name="kn left0004" x="1018" y="417" width="339" height="430" frameX="0" frameY="-2" frameWidth="341" frameHeight="432"/>
+	<SubTexture name="kn right0000" x="1357" y="417" width="338" height="432" frameX="-3" frameY="-2" frameWidth="341" frameHeight="434"/>
+	<SubTexture name="kn right0001" x="1357" y="417" width="338" height="432" frameX="-3" frameY="-2" frameWidth="341" frameHeight="434"/>
+	<SubTexture name="kn right0002" x="1695" y="417" width="339" height="434" frameX="0" frameY="0" frameWidth="341" frameHeight="434"/>
+	<SubTexture name="kn right0003" x="1695" y="417" width="339" height="434" frameX="0" frameY="0" frameWidth="341" frameHeight="434"/>
+	<SubTexture name="kn right0004" x="1695" y="417" width="339" height="434" frameX="0" frameY="0" frameWidth="341" frameHeight="434"/>
+	<SubTexture name="kn up0000" x="0" y="851" width="339" height="453" frameX="0" frameY="0" frameWidth="345" frameHeight="453"/>
+	<SubTexture name="kn up0001" x="0" y="851" width="339" height="453" frameX="0" frameY="0" frameWidth="345" frameHeight="453"/>
+	<SubTexture name="kn up0002" x="339" y="851" width="338" height="442" frameX="-7" frameY="-11" frameWidth="345" frameHeight="453"/>
+	<SubTexture name="kn up0003" x="339" y="851" width="338" height="442" frameX="-7" frameY="-11" frameWidth="345" frameHeight="453"/>
+	<SubTexture name="kn up0004" x="339" y="851" width="338" height="442" frameX="-7" frameY="-11" frameWidth="345" frameHeight="453"/>
+</TextureAtlas>

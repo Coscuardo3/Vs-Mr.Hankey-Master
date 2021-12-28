@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wallBusChristmas.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wall0000" x="0" y="0" width="2595" height="748" frameX="-1287" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0001" x="0" y="0" width="2595" height="748" frameX="-1258" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0002" x="0" y="0" width="2595" height="748" frameX="-1229" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0003" x="0" y="0" width="2595" height="748" frameX="-1200" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0004" x="0" y="0" width="2595" height="748" frameX="-1170" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0005" x="0" y="0" width="2595" height="748" frameX="-1141" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0006" x="0" y="0" width="2595" height="748" frameX="-1112" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0007" x="0" y="0" width="2595" height="748" frameX="-1083" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0008" x="0" y="0" width="2595" height="748" frameX="-1053" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0009" x="0" y="0" width="2595" height="748" frameX="-1024" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0010" x="0" y="0" width="2595" height="748" frameX="-995" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0011" x="0" y="0" width="2595" height="748" frameX="-966" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0012" x="0" y="0" width="2595" height="748" frameX="-936" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0013" x="0" y="0" width="2595" height="748" frameX="-907" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0014" x="0" y="0" width="2595" height="748" frameX="-878" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0015" x="0" y="0" width="2595" height="748" frameX="-849" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0016" x="0" y="0" width="2595" height="748" frameX="-819" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0017" x="0" y="0" width="2595" height="748" frameX="-790" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0018" x="0" y="0" width="2595" height="748" frameX="-761" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0019" x="0" y="0" width="2595" height="748" frameX="-732" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0020" x="0" y="0" width="2595" height="748" frameX="-702" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0021" x="0" y="0" width="2595" height="748" frameX="-673" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0022" x="0" y="0" width="2595" height="748" frameX="-644" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0023" x="0" y="0" width="2595" height="748" frameX="-615" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0024" x="0" y="0" width="2595" height="748" frameX="-585" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0025" x="0" y="0" width="2595" height="748" frameX="-556" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0026" x="0" y="0" width="2595" height="748" frameX="-527" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0027" x="0" y="0" width="2595" height="748" frameX="-497" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0028" x="0" y="0" width="2595" height="748" frameX="-468" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0029" x="0" y="0" width="2595" height="748" frameX="-439" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0030" x="0" y="0" width="2595" height="748" frameX="-410" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0031" x="0" y="0" width="2595" height="748" frameX="-380" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0032" x="0" y="0" width="2595" height="748" frameX="-351" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0033" x="0" y="0" width="2595" height="748" frameX="-322" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0034" x="0" y="0" width="2595" height="748" frameX="-293" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0035" x="0" y="0" width="2595" height="748" frameX="-263" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0036" x="0" y="0" width="2595" height="748" frameX="-234" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0037" x="0" y="0" width="2595" height="748" frameX="-205" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0038" x="0" y="0" width="2595" height="748" frameX="-176" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0039" x="0" y="0" width="2595" height="748" frameX="-146" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0040" x="0" y="0" width="2595" height="748" frameX="-117" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0041" x="0" y="0" width="2595" height="748" frameX="-88" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0042" x="0" y="0" width="2595" height="748" frameX="-59" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0043" x="0" y="0" width="2595" height="748" frameX="-29" frameY="0" frameWidth="3882" frameHeight="748"/>
+	<SubTexture name="wall0044" x="0" y="0" width="2595" height="748" frameX="0" frameY="0" frameWidth="3882" frameHeight="748"/>
+</TextureAtlas>

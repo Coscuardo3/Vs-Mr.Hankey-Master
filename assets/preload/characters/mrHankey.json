@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				72,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Hankey Idle"
+		},
+		{
+			"offsets": [
+				73,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hankey Left"
+		},
+		{
+			"offsets": [
+				64,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Hankey Down"
+		},
+		{
+			"offsets": [
+				61,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hankey Up"
+		},
+		{
+			"offsets": [
+				58,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Hankey Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mr.hankey_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Dueto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		40
+	],
+	"camera_position": [
+		120,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

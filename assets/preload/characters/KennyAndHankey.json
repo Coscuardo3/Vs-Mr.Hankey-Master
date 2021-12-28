@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				35,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KN idle"
+		},
+		{
+			"offsets": [
+				35,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hankey left"
+		},
+		{
+			"offsets": [
+				35,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Hankey down"
+		},
+		{
+			"offsets": [
+				35,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hankey up"
+		},
+		{
+			"offsets": [
+				35,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Hankey right"
+		},
+		{
+			"offsets": [
+				35,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "KN left"
+		},
+		{
+			"offsets": [
+				35,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "KN down"
+		},
+		{
+			"offsets": [
+				42,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "KN up"
+		},
+		{
+			"offsets": [
+				35,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "KN right"
+		},
+		{
+			"offsets": [
+				34,
+				86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alp",
+			"indices": [],
+			"name": "Duo left"
+		},
+		{
+			"offsets": [
+				23,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alp",
+			"indices": [],
+			"name": "Duo down"
+		},
+		{
+			"offsets": [
+				38,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alp",
+			"indices": [],
+			"name": "Duo up"
+		},
+		{
+			"offsets": [
+				18,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alp",
+			"indices": [],
+			"name": "Duo right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kenny and Hankey",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Dueto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		40
+	],
+	"camera_position": [
+		0,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

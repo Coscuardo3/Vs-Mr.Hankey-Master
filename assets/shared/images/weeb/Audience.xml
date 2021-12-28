@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Audience.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="audiencia0000" x="0" y="0" width="1750" height="337" frameX="0" frameY="-87" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0001" x="0" y="0" width="1750" height="337" frameX="0" frameY="-87" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0002" x="0" y="337" width="1542" height="419" frameX="-104" frameY="0" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0003" x="0" y="337" width="1542" height="419" frameX="-104" frameY="0" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0004" x="0" y="756" width="1634" height="394" frameX="-58" frameY="-27" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0005" x="0" y="756" width="1634" height="394" frameX="-58" frameY="-27" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0006" x="0" y="1150" width="1679" height="382" frameX="-36" frameY="-40" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0007" x="0" y="1150" width="1679" height="382" frameX="-36" frameY="-40" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0008" x="0" y="1150" width="1679" height="382" frameX="-36" frameY="-40" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0009" x="0" y="1150" width="1679" height="382" frameX="-36" frameY="-40" frameWidth="1750" frameHeight="424"/>
+	<SubTexture name="audiencia0010" x="0" y="1150" width="1679" height="382" frameX="-36" frameY="-40" frameWidth="1750" frameHeight="424"/>
+</TextureAtlas>

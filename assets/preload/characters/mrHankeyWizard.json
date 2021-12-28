@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				69,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Wizard Hankey Idle"
+		},
+		{
+			"offsets": [
+				70,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Wizard Hankey Left"
+		},
+		{
+			"offsets": [
+				62,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Wizard Hankey Down"
+		},
+		{
+			"offsets": [
+				57,
+				-172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Wizard Hankey Up"
+		},
+		{
+			"offsets": [
+				55,
+				-167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Wizard Hankey Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mr.Hankey_Wizard_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "Hankey-Wizard",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		60,
+		40
+	],
+	"camera_position": [
+		120,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
